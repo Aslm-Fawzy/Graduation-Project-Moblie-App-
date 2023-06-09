@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26903411731",
+    "project_id": "doctork-5852d",
+    "storage_bucket": "doctork-5852d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26903411731:android:55bd35483e0fdad63fd3e6",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ghxeb2-BOHzzrCWDBEnvZ-beTqOqVdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
